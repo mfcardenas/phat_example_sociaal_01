@@ -56,7 +56,7 @@ $>./startEdit.sh
 ```
 2. Una vez abierto el editor, puede modelar su propia simulación y guardar (Save) los cambios que realice.
 
-<img src="https://github.com/mfcardenas/phat_example_sociaal_01/blob/master/img/img_portada_03.png" title="Save Option"/>
+<img src="https://github.com/mfcardenas/phat_example_sociaal_01/blob/master/img/img_doc_03.png" title="Save Option"/>
 
 3. Cuando finalice el modelado de la simulación, se debe generar el código fuente java necesario para ejecutar la simulación. Utilice la siguiente instrucción para ello:
 ```
@@ -68,5 +68,5 @@ $> ./runSim Sim1
 ```
 
 <p><i><b>Sim1</b></i> será el nombre de la simulación que haya construido con el modelador (ver la imagen siguiente).</p>
-<img src="https://github.com/mfcardenas/phat_example_sociaal_01/blob/master/img/img_portada_02.png" title="Nombre de la Simulación"/>
+<img src="https://github.com/mfcardenas/phat_example_sociaal_01/blob/master/img/img_doc_02.png" title="Nombre de la Simulación"/>
 
