@@ -1,14 +1,16 @@
-### Social Ambient Assisted Living (SociAAL)
-#### Tutorial PHAT-SIM
-##### Construcción de Simulaciones
+# Social Ambient Assisted Living (SociAAL)
+## Tutorial PHAT-SIM
+### Construcción de Simulaciones
 
 <img src="https://github.com/mfcardenas/phat_example_sociaal_01/blob/master/img/img_portada_01.png" title="SociAAL Tool"/>
 
 ### Creación de Simulación: Caso desorientación
+------
 
 <p>El objetivo de esta es guía es permitir al usuario construir una simulación que permita recrear situaciones que un paciente, por ejemplo, puede realizar en su casa. En este caso, se quiere simular a un paciente que realiza actividades sin sentido dentro de su hogar. Para ello, la simulación contará con las siguientes características:</p>
 
 #### Escenario
+------
 <p>La simulación se llevará a cabo dentro de la vivienda de un paciente. Dicha vivienda consta de los siguientes espacios:</p>
 
 1. Salón (LivingRoom)
@@ -19,9 +21,11 @@
 6. Baño 2 (BathRoom 2)
 
 #### Paciente
+------
 <p>El paciente será una persona de 72 años con dificultades para caminar.</p>
 
 #### Actividades
+------
 <p>Las actividades a realizar por el paciente son las siguientes:</p>
 
 1. El paciente se encuentra en la cocina
@@ -38,7 +42,7 @@
 12. Fin de la simulación.
 
 #### Uso de modelado para construir la simulación
-
+------
 <p>Para construir la simulación se necesitarán los siguientes elementos:</p>
 
 1. Código github de ejemplo: https://github.com/mfcardenas/phat_example_sociaal_01.git
