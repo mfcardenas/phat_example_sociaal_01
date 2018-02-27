@@ -1,0 +1,13 @@
+phat/sim/MainSim2PHATSimulationOnlyDevices.class
+phat/agents/automaton/activities/DoNothingForLongActivity.class
+phat/agents/automaton/tasks/seq/MiSeqTaskDiagramTask.class
+phat/agents/automaton/timeIntervals/E3PatientGetReadyTimeTIA.class
+phat/sim/MainSim2PHATSimulationNoDevices.class
+phat/agents/automaton/tasks/seq/WatchTVSeqTasksTask.class
+phat/sim/MainSim1PHATSimulation.class
+phat/sim/MainSim1PHATSimulationOnlyDevices.class
+phat/sim/MainSim2PHATSimulation.class
+phat/sim/MainSim1PHATSimulationNoDevices.class
+phat/agents/automaton/tasks/seq/DoNothingSeqTaskTask.class
+phat/agents/automaton/activities/WatchTVActivity.class
+phat/agents/impl/E3PatientAgent.class
