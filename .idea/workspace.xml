@@ -3,6 +3,88 @@
   <component name="ChangeListManager">
     <list default="true" id="78fce6f7-b8d6-46ec-86af-a53fb5d970e4" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/src/main/spec/specification.xml" afterPath="$PROJECT_DIR$/example_01/initial0/src/main/spec/specification.xml" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/Batik_LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/JADE-LGPL.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/JTB_LICENSE.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/RESIN_LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/XERCES_LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/buildext.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/ingenias_idk_gpl_license" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/javacc-bsd-license.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/jgraph_license" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/jruby_license.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/jython_license.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/licenses/Batik_LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/licenses/JADE-LGPL.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/licenses/JTB_LICENSE.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/licenses/RESIN_LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/licenses/XERCES_LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/licenses/ingenias_idk_gpl_license" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/licenses/javacc-bsd-license.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/licenses/jgraph_license" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/licenses/jruby_license.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/licenses/jython_license.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/licenses/marathon_license.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/licenses/pounder lgpl.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/licenses/swixml_license.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/marathon_license.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/phat/agents/automaton/activities/DoNothingForLongActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/phat/agents/automaton/activities/WatchTVActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/phat/agents/automaton/tasks/seq/DoNothingSeqTaskTask.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/phat/agents/automaton/tasks/seq/MiSeqTaskDiagramTask.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/phat/agents/automaton/tasks/seq/WatchTVSeqTasksTask.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/phat/agents/automaton/timeIntervals/E3PatientGetReadyTimeTIA.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/phat/agents/impl/E3PatientAgent.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/phat/sim/MainSim1PHATSimulation.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/phat/sim/MainSim1PHATSimulationNoDevices.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/phat/sim/MainSim1PHATSimulationOnlyDevices.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/phat/sim/MainSim2PHATSimulation.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/phat/sim/MainSim2PHATSimulationNoDevices.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/phat/sim/MainSim2PHATSimulationOnlyDevices.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/pounder lgpl.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/rules.drl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/scripts/createAVDsSim1.bat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/scripts/createAVDsSim1.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/scripts/createAVDsSim2.bat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/scripts/createAVDsSim2.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classes/swixml_license.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/classpath.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/generated/Batik_LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/generated/JADE-LGPL.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/generated/JTB_LICENSE.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/generated/RESIN_LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/generated/XERCES_LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/generated/buildext.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/generated/ingenias_idk_gpl_license" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/generated/javacc-bsd-license.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/generated/jgraph_license" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/generated/jruby_license.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/generated/jython_license.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/generated/marathon_license.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/generated/phat/agents/automaton/activities/DoNothingForLongActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/generated/phat/agents/automaton/activities/WatchTVActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/generated/phat/agents/automaton/tasks/seq/DoNothingSeqTaskTask.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/generated/phat/agents/automaton/tasks/seq/MiSeqTaskDiagramTask.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/generated/phat/agents/automaton/tasks/seq/WatchTVSeqTasksTask.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/generated/phat/agents/automaton/timeIntervals/E3PatientGetReadyTimeTIA.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/generated/phat/agents/impl/E3PatientAgent.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/generated/phat/sim/MainSim1PHATSimulation.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/generated/phat/sim/MainSim1PHATSimulationNoDevices.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/generated/phat/sim/MainSim1PHATSimulationOnlyDevices.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/generated/phat/sim/MainSim2PHATSimulation.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/generated/phat/sim/MainSim2PHATSimulationNoDevices.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/generated/phat/sim/MainSim2PHATSimulationOnlyDevices.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/generated/pounder lgpl.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/generated/rules.drl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/generated/scripts/createAVDsSim1.bat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/generated/scripts/createAVDsSim1.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/generated/scripts/createAVDsSim2.bat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/generated/scripts/createAVDsSim2.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/generated/swixml_license.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/example_01/initial0/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,13 +94,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="218">
-                <caret line="72" column="0" lean-forward="true" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+              <first_editor relative-caret-position="630">
+                <caret line="30" column="89" lean-forward="false" selection-start-line="30" selection-start-column="89" selection-end-line="30" selection-end-column="89" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -26,12 +108,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/example_01/initial0/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="21">
-                <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+              <first_editor relative-caret-position="147">
+                <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -53,6 +145,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -62,9 +155,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="214" />
-    <option name="y" value="81" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="148" />
+    <option name="y" value="123" />
     <option name="width" value="1498" />
     <option name="height" value="1028" />
   </component>
@@ -93,7 +187,19 @@
             <path>
               <item name="phat_example_sociaal_01" type="b2602c69:ProjectViewProjectNode" />
               <item name="phat_example_sociaal_01" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="example_01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phat_example_sociaal_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phat_example_sociaal_01" type="462c0819:PsiDirectoryNode" />
+              <item name="example_01" type="462c0819:PsiDirectoryNode" />
+              <item name="initial0" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phat_example_sociaal_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phat_example_sociaal_01" type="462c0819:PsiDirectoryNode" />
+              <item name="example_01" type="462c0819:PsiDirectoryNode" />
+              <item name="solex0B" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -226,43 +332,43 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1519738860097</updated>
-      <workItem from="1519738861770" duration="2299000" />
+      <workItem from="1519738861770" duration="3533000" />
+      <workItem from="1520244630336" duration="1616000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2299000" />
+    <option name="totallyTimeSpent" value="5149000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="214" y="81" width="1498" height="1028" extended-state="0" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="1938" height="1168" extended-state="6" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32908458" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15476191" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28315055" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25267667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,10 +382,21 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1512">
+            <caret line="72" column="0" lean-forward="true" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/example_01/initial0/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="21">
+          <first_editor relative-caret-position="147">
             <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
             <folding />
           </first_editor>
@@ -290,8 +407,27 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="218">
-            <caret line="72" column="0" lean-forward="true" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+          <first_editor relative-caret-position="630">
+            <caret line="30" column="89" lean-forward="false" selection-start-line="30" selection-start-column="89" selection-end-line="30" selection-end-column="89" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example_01/initial0/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="147">
+            <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
             <folding />
           </first_editor>
           <second_editor />

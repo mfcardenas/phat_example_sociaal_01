@@ -1,6 +1,37 @@
 # Social Ambient Assisted Living (SociAAL)
 ## Tutorial PHAT-SIM
-### Construcción de Simulaciones
+
+### Ejecución de la Simulación
+
+A. Descargue el código fuente de github:
+```
+$>.git clone https://github.com/mfcardenas/phat_example_sociaal_01
+```
+
+B. Compile:
+```
+$>./compileSim.sh
+```
+
+C. Ejecute:
+```
+$> ./runSim Sim1
+$> ./runSim Sim2 
+```
+
+Recuerde que debe disponer en su equipo de las siguientes herramientas:
+
+1. Java 1.7
+2. Maven 3.1.1 <i>(o superior)</i>. Es necesario que se defina la variable <i><b>M2_HOME</b></i> en el ordenador en el que se vaya a trabajar.
+3. Ant 1.9 <i>(o superior)</i>
+
+[Ayuda 1]: http://grasia.fdi.ucm.es/aide/software/2016/01/22/testingbasicwindows.html
+[Ayuda 2]: http://grasia.fdi.ucm.es/aide/software/2016/01/22/path.html
+- Consulte la [Ayuda 1] para comprobar si su equipo cumple estos requisitos.
+- Consulte la [Ayuda 2] para establecer las variables de entorno en su ordenador Windows.
+ 
+
+### Construcción de la Simulación
 
 <img src="https://github.com/mfcardenas/phat_example_sociaal_01/blob/master/img/img_portada_01.png" title="SociAAL Tool"/>
 
